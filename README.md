@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @song910226
+- 👋 Hi, I’m Youngbin Song
+- I'm learning R via Coursera now : )
+- 
 - 👀 I’m interested in learning statistic tools
 - 🌱 I’m currently learning MBA course and looking for data analyst job : )
+- 
 - 📫 How to reach me songx408@umn.edu
 
 <!---
